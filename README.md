@@ -8,6 +8,7 @@ The objective of this project is to analyze sales performance, product categorie
 
 The project includes **data cleaning using SQL, analytical queries, KPI calculations, and an interactive Power BI dashboard**.
 
+<img src="images/dashboard.png" alt="dashboad screenshot.png" width="800"/>
 ---
 
 ## 🎯 Business Objective
