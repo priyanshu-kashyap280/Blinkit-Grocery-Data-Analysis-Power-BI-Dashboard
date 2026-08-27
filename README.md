@@ -12,6 +12,7 @@ The project includes **data cleaning using SQL, analytical queries, KPI calculat
 
 ## 📊 Dashboard Screenshot
 
+
 <img src="screenshot.png" alt="Dashboard Screenshot" width="900">
 
 ---
